@@ -14,7 +14,7 @@ Bài tập 7 - SPI Communication
 - File usart.c: Phục vụ cho giao tiếp UART
 - File rcc522.c: Phục vụ kết nối SPI
 ## Demo
- [Demo](https://youtu.be/0eL9D4CzhTM)
+ [Demo](https://youtu.be/y6enilYii9k)
 
 ## Thành viên
 - Nguyễn Đức Nam
