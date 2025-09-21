@@ -9,6 +9,10 @@ Bài tập 7 - SPI Communication
 - STM32F103C8T6
 - USB to TTL
 - RFID Module RC522
+## Cấu trúc chương trình
+- File main.c: Chương trình chính
+- File usart.c: Phục vụ cho giao tiếp UART
+- File rcc522.c: Phục vụ kết nối SPI
 ## Demo
  [Demo](https://youtu.be/0eL9D4CzhTM)
 
